@@ -1,0 +1,3 @@
+('Nissan', 1)
+('Mercedes', 3)
+('Toyota', 0)
